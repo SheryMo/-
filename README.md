@@ -12,7 +12,7 @@
 
 打开之后是以下画面：
 
-![image-20210407211518700](C:\Users\WORKSTATION\AppData\Roaming\Typora\typora-user-images\image-20210407211518700.png)
+![image](image-20210407211518700.png)
 
 输入之后开始自动还原。
 
